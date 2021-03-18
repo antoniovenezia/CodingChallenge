@@ -1,0 +1,72 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  /* margin: auto; */
+  /* margin-top: 20px */
+}
+
+*{
+  line-height: 18px
+}
+
+#container1{
+    width: 60%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 90px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 20px
+}
+
+
+#container2{
+  width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+.logo{
+  height: 80px
+}
+
+.int{
+  color: #00bb2d;
+}
+
+.bottoni{
+  background: lightgreen;
+  background-size: cover;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid green
+}
+
+div{
+  color: white
+}
+
+h2{
+  display: inline-block;
+}
+
+#charge-bar{
+  width: 400px;
+  height: 20px;
+  background: orange;
+  border-radius: 5px
+}
+
+#charge-bar2{
+  width: 650px;
+  height: 20px;
+  background: #00bb2d;
+  border-radius: 5px
+}
+
+#charge-bar3{
+  width: 200px;
+  height: 20px;
+  background: red;
+  border-radius: 5px
+}
